@@ -1,2 +1,2 @@
-# MIPS
-Assignments which were completed in MIPS.
+# Assembly
+Assignments which were completed in Assembly language MIPS.
